@@ -7,4 +7,4 @@
 Link: [Google][googlelink]
 [googlelink]: https://google.com "Go google"
 
-syntax: [Title](link)
+syntax: [Link](google)
