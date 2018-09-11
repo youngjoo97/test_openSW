@@ -7,4 +7,9 @@
 Link: [Google][googlelink]
 [googlelink]: https://google.com "Go google"
 
-syntax: [Link](google)
+*single asterisks*
+_single underscores_
+**double asterisks**
+__double underscores__
+++underline++
+~~cancelline~~
