@@ -13,6 +13,3 @@ _single underscores_
 __double underscores__
 ++underline++
 ~~cancelline~~
-
-![Alt text](/path/to/img.jpg)
-![Alt text](/path/to/img.jpg "Optional title")
